@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emre
-- 👀 I’m interested in python
-- 🌱 I’m currently learning data science and SQL
+- 👀 I’m interested in PYTHON and JAVA
+- 🌱 I’m currently learning JAVA AND ANDROİD DEVELOPMENT
 - 📫 How to reach me www.linkedin.com/in/yakup-emre-uluişik-26710b183
 
 <!---
